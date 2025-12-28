@@ -1,0 +1,22 @@
+#examples_form {
+    margin: 20px auto;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    align-items: center;
+    width: max-content;
+    display: flex;
+    flex-direction: row;
+}
+
+#examples_form input {
+    width: 100px;
+    padding: 5px;
+    margin: 0 10px;
+}
+
+#examples_form button {
+    width: 100px;
+    padding: 5px;
+    margin: 0 auto;
+}
